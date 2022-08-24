@@ -1,7 +1,7 @@
 package grupo_desarrollo;
 
 public class Empresa {
-<<<<<<< HEAD
+
     // Atríbutos
     private String Nombre;
     private String Direccion;
@@ -48,6 +48,5 @@ public class Empresa {
     public void setNit(String nit) {
         Nit = nit;
     }
-=======
->>>>>>> origin/development
+
 }
