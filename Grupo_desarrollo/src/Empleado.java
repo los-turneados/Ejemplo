@@ -1,5 +1,3 @@
-package grupo_desarrollo;
-
 public class Empleado {
     private String nombreEmpleado;
     private String correoEmpleado;
